@@ -1,3 +1,5 @@
+## NB: This repository has been migrated to : https://github.com/whilesmart/laravel-plugin-engine
+
 # Trakli Plugin Engine
 
 A flexible and powerful plugin system for Laravel applications.
